@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @beersbrainfood
-- 👀 I’m interested in data analysis and data science using Python and R.
-- 🌱 I’m currently learning PyTorch.
-- 💞️ I’m looking to collaborate on any data analysis or data science projects!
+- 👋 Hi, I’m @beersbrainfood, currently based in Berlin, Germany.
+- 👀 I’m interested in NLP and solving problems using deep learning models.
+- 🌱 I’m currently learning PyTorch and Tensorflow.
+- 💞️ I’m looking to collaborate on any data analysis/ml/dl projects!
 - 📫 How to reach me : eunseoyi95@gmail.com
 
 <!---
