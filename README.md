@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beersbrainfood, currently based in Berlin, Germany.
+- 👋 Hi, I’m @beersbrainfood, currently based in Munich, Germany.
 - 👀 I’m interested in NLP and solving problems using data-driven approaches.
 - 🌱 I’m currently learning PyTorch and Tensorflow.
 - 💞️ I’m looking to collaborate on any data analysis/ml/dl projects!
