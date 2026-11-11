@@ -1,9 +1,9 @@
 ### Hi, I'm Eunseo 👋
 
-Data Science master's student at **Hochschule München**, based in Munich.
+Data Analytics master's student at **Hochschule München**, based in Munich.
 I like turning messy data and processes into things people actually use.
 
-- 🎓 **M.Sc. Data Science** @ HM Munich (taught in German) · graduating 09/2027
+- 🎓 **M.Sc. Data Analytics** @ HM Munich (program now renamed Data Science, taught in German) · graduating 09/2027
 - 💼 **Working Student, Product Management** @ Panasonic Industry Europe: automating data workflows (e.g. a Power Query tool that cut bulk requests from ~2 h to ~3 min)
 - 🤖 **Ex-Project Manager** @ Superb AI: owned training-data quality for ~20 ML dataset projects
 - 🔍 **Open to:** Working Student roles in data / analytics / AI from 01/2027 and a Master's thesis from 04/2027
